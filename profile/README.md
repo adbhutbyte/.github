@@ -1,6 +1,6 @@
 # AdbhutByte
 
-Welcome to the official GitHub repository for AdbhutByte, a dynamic and innovative technology conglomerate! We are committed to delivering exceptional services and solutions across various domains, with a focus on web hosting, domain selling, web design and development, web services, tools, web security, tech blog and academy, AI, deep learning, software development, and cybersecurity.
+Welcome to the official GitHub repository for AdbhutByte, a dynamic and innovative technology conglomerate! We are committed to delivering exceptional services and solutions across various domains.
 
 ## Overview
 
